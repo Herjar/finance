@@ -94,9 +94,10 @@ def trading_hours(data):
 # N = NYSE
 # O = Nasdaq
 # A = Amex # common for ETFs
+# OSE = Oslo
 # ~~~~~~~~~~~~~~~~~~
-ticker       = 'NKE'
-exchange_sym = 'N'
+ticker       = 'TEL'
+exchange_sym = 'OSE'
 
 # ~~~~~~~~~~~~~~~~~~
 # resample irregular tick data
